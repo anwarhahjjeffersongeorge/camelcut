@@ -21,7 +21,6 @@
   "main": "./src/index.js",
   "module": "./src/main.js",
   "name": "camelcut",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anwarhahjjeffersongeorge/camelcut.git"
